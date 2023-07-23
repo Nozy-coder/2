@@ -1,0 +1,121 @@
+body{
+    box-sizing: border-box;
+    width: 1440px;
+    height: 1489px; 
+    padding-top: 5em;  
+    box-shadow: 0px 24px 24px 5px;
+    padding-right: 5em;
+    padding-left: 12em;
+    flex-shrink: 0;
+}
+p{
+    font-size: 36px;
+    font-family: serif;
+    font-weight: 700;
+    margin-left: -300px;
+
+}
+.heading{
+    display:flex;
+    flex-direction: row;
+    list-style: none;
+    padding-left: 1em;
+    justify-content: space-evenly;
+
+}
+.left{
+    font-size: 20px;
+    padding-top: 2.5em;
+    padding-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.one{
+    height: 320px;
+    position: relative;
+    padding-right: 2em;
+}
+.two{
+    height: 320px;
+    position: relative;
+    padding-right: 2em;
+    padding-top: 5em;
+}
+.three{
+    height: 320px;
+    position: relative;
+    padding-right: px;
+}
+.four{
+    height: 320px;
+    position: relative;
+    padding-right: 10em;
+    padding-top: 9em;
+}
+.five{
+    height: 320px;
+    position: relative;
+    padding-right: 1em;
+    padding-top: 13em;
+}
+.six{
+    height: 320px;
+    position: relative;
+    padding-top: 9em;
+}
+
+.photo{
+    list-style: none;
+    display:flex;
+    flex-wrap: wrap;
+    padding-top: 5em;
+}
+
+.bill{
+    padding-left: 20px;
+}
+.art{
+    margin-top: 80px;
+}
+
+.product{
+    transform-origin: 0 0;
+    transform:rotate(90deg) ;
+}
+.art{
+    transform-origin: 0 0;
+    transform:rotate(90deg) ;
+}
+.tech{
+    transform-origin: 0 0;
+    transform:rotate(90deg) ;
+    padding-left: 1em;
+    margin-left: 20px;
+}
+
+.UX{
+    transform-origin: 0 0;
+    transform:rotate(90deg) ;
+    margin-top: 150px;
+    margin-left:-130px;
+    margin-right: 35px;
+}
+.developer{
+    transform-origin: 0 0;
+    transform:rotate(90deg) ;
+    margin-top: 210px;
+}
+.develop{
+    transform-origin: 0 0;
+    transform:rotate(90deg) ;
+    margin-left:25px;
+    margin-top: 150px;
+}
+
+.footer{
+    padding-top: 5em;
+    margin-left: 13.5em;
+    font-size: 25px;
+    color: rgb(59, 61, 61);
+}
